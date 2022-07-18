@@ -1,4 +1,4 @@
-# Popcorn Computer Documentation
+# Popcorn Computer™ Documentation
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 [![Follow Source Parts on Twitter][twitter-follow-shield]][twitter-follow]
 [![Subscribe to Source Parts' Subreddit][reddit-subscribers-shield]][sourceparts-subreddit]
@@ -6,7 +6,7 @@
 ## Documentation
 To view the documentation stored in this repository please visit: [https://docs.popcorncomputer.com][popcorncomputer-docs]  
 
-If you have done something cool with a Popcorn Computer product or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
+If you have done something cool with a **Popcorn Computer™** product or feel that something is missing from the documentation, please feel free to open an issue on this repository or submit a Pull Request. The source files for our documentation website can be found in the /docs folder in this repository.
 
 ## License & Copyright
 This work is licensed under a
