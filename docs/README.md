@@ -1,10 +1,16 @@
 # Popcorn Computer Documentation
 
-## PopStick
+## PopStick™
 https://docs.usbcomputer.com/
 
-## PocketPC
+## Pocket P.C.
 https://docs.popcorncomputer.com/PocketPC/
 
-## Kettlepop
+## Kettlepop™
 https://docs.popcorncomputer.com/Kettlepop/
+
+## Original Popcorn
+https://docs.popcorncomputer.com/OriginalPopcorn/
+
+## Stovetop™
+https://docs.popcorncomputer.com/Stovetop/
