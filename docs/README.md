@@ -1,16 +1,23 @@
 # Popcorn Computer Documentation
 
-## PopStick™
+## Products
+
+### PopStick™
 https://docs.usbcomputer.com/
 
-## Pocket P.C.
+### Pocket P.C.
 https://docs.popcorncomputer.com/PocketPC/
 
-## Kettlepop™
+### Kettlepop™
 https://docs.popcorncomputer.com/Kettlepop/
 
-## Original Popcorn
+### Original Popcorn
 https://docs.popcorncomputer.com/OriginalPopcorn/
 
-## Stovetop™
+### Stovetop™
 https://docs.popcorncomputer.com/Stovetop/
+
+## Contact
+For sales inquiries, please email: <a href="mailto:sales@source.parts">sales@source.parts</a>
+
+For support, please email: <a href="mailto:support@source.parts">support@source.parts</a>
